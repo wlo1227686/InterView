@@ -1,0 +1,46 @@
+樂意傳播 Java Web Engineer (考試時間10分鐘,A4純手寫)  
+
+1.給定邏輯條件
+	1.   F(u,0)=1
+	2.   F(u,f)=F(u,f-1)*(u+f-1)
+	請將上列公式轉換為簡單的程式，可以應用任何一種流行的程式語言。
+	
+2.簡單說明HTTP中的GET和POST差別,何時該使用GET?何時該使用POST?
+
+3. SQL 是一種 logic-base 的程式語言，請將下表用SQL指令依序據FOOD做字典排序(字母由小到大)
+|*************************************|
+|                 my_food             |
+|-----------------+-------------------|
+|         ID      |         FOOD      |
+|-----------------+-------------------|
+|          1      |         mango     |
+|          2      |         Banana    |
+|          5      |         apple     |
+|          6      |         wasabi    |
+|          7      |         orange    |
+|-----------------+-------------------|
+
+ 4. Javascript是一種prototype-base的程式語言，請閱讀以下程式後回答問題Q1~Q5
+ <script type="text/javascript">
+ 		 function Basic()  {	this.name="Kirito"; }
+
+		 function GameRole() { this.atk=1; }
+		 
+		 GameRole.prototype=new Basic()
+		 GameRole.prototype.prepare_c8763 =function(){
+		 setTimeout("alert('c8763')",10000);
+		 this.atk=this.atk*1000;
+		 };
+		 
+		 var role1 = new Basic()
+		 role1.name='74Boss'
+		 var gameRole1 = new GameRole()
+		 
+		console.log(role1.name)  	   //Q1輸出值?
+		console.log(gameRole1.atk)     //Q2輸出值?
+		console.log(gameRole1.name)    //Q3輸出值?
+		gameRole1.prepare_c8763()  	   //Q4輸出值?
+		console.log(gameRole1.atk)     //Q5輸出值?
+ </script>
+ 5.簡單說一下你對Design Pattern 的理解，用過哪些Patten，應用場景是前端/後端?覺得有哪些優缺點?
+
