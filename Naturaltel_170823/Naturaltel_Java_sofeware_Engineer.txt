@@ -1,0 +1,24 @@
+
+自然互動科技（JAVA軟體工程師）
+考試分2個部分（筆試＋上機）60分鐘
+
+＊筆試內容
+	1.寫出實作繼承的語法及繼承的規則
+	2.什麼是Overload? 請簡述Overload規則
+	3.什麼是Override? 請簡述Override規則
+	4.equals 方法與 ＝＝的功能與區別
+	5.列出CSS選擇器中ID,Elements,limportant及Class的優先順序
+	6. link和＠import引用css的區別？
+	7.在html中css選擇器id和class區別是什麼？
+	8.請用meta標籤讓網頁每60秒自動更新一次
+	9.請用meta標籤讓網頁30秒後轉到tw.yahoo.com
+	10.請說明javascript中onfocus,onblur,onchange及onload使用時機
+	11.請寫一段程式碼讓網頁背景顏色變成lightblue顏色
+	12.請說明javascript中settimeout與setinterval的差別？
+	13.請說明java使用simpledateformat Class需要注意的地方
+	14.請說明java abstract class與 interface有什麼異同
+	15.ArrayList,LinkedList,Ｖector的區別是什麼？
+
+＊上機考內容（斷網考試） 
+
+	1.請實作出一個專案 （全端專案）
