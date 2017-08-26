@@ -1,0 +1,14 @@
+安璞資訊(A4紙一面,作答時間1小時)
+
+Java Programmer
+
+1.試描述您最熟悉的Web Framework之特性
+
+2.試描述您最熟悉的Desgin Pattern之特性
+
+3.試描述您最熟悉的ORM Framework之特性
+
+4.請簡敘Spring以及AOP之精隨
+
+5.您日常的下班時間是1800,而您的主管常常在1759要求您調Log。
+請問您會如何處理這情況?
