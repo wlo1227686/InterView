@@ -1,10 +1,9 @@
-
 *.class
 *.log
 .classpath
 *.classpath
 .project
-*.jar
 *.zip
 *.tar.gz
 target/
+bin/
